@@ -1,0 +1,27 @@
+Hi, I’m [AHMAD MUHAMMAD], Fellow ID [FE/23/83935309].
+
+Today, I’m excited to present my AI-powered Job Matcher project for the 3MTT Showcase.
+
+The problem is simple: job seekers often struggle to find roles that truly match their skills and experiences.
+
+My solution uses AI — specifically, a model from the sentence-transformers library — to understand the meaning behind a user’s bio or skill set and compare it with job descriptions.
+
+Let me show you how it works.
+
+Here, I input a sample bio: "I am a Python developer with experience in data analysis and machine learning."
+
+The AI processes this bio and compares it with several job descriptions like Data Scientist, Web Developer, and AI Engineer.
+
+It calculates similarity scores and finds the best job fit.
+
+As you can see, the AI matched the bio with the "Data Scientist" role, with a similarity score of 0.76.
+
+This demonstrates how AI can make job searching smarter by understanding the context, not just keywords.
+
+You can run this project entirely on your phone using Google Colab or Pydroid 3.
+
+Thank you for watching, and don’t forget to check out my code on GitHub: [Your GitHub Link].
+
+Please support by tagging @3MTTNigeria and using #3MTTLearningCommunity and #My3MTT.
+
+Happy coding!
