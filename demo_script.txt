@@ -20,7 +20,7 @@ This demonstrates how AI can make job searching smarter by understanding the con
 
 You can run this project entirely on your phone using Google Colab or Pydroid 3.
 
-Thank you for watching, and don’t forget to check out my code on GitHub: [Your GitHub Link].
+Thank you for watching, and don’t forget to check out my code on GitHub: [https://github.com/PrnxAhmad/JobMatcher.git].
 
 Please support by tagging @3MTTNigeria and using #3MTTLearningCommunity and #My3MTT.
 
